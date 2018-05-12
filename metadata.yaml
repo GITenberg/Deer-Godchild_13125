@@ -1,0 +1,28 @@
+_repo: Deer-Godchild_13125
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  authors:
+  - agent_name: Serrell, Edith
+    gutenberg_agent_id: '4849'
+    url: http://www.gutenberg.org/2009/agents/4849
+  - agent_name: Bernard, Marguerite
+    gutenberg_agent_id: '4848'
+    url: http://www.gutenberg.org/2009/agents/4848
+description: ''
+gutenberg_issued: '2004-08-06'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '13125'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Children -- France -- Correspondence'
+- !lcc 'D501'
+- !lcsh 'Children -- United States -- Correspondence'
+title: Deer Godchild
+url: http://www.gutenberg.org/ebooks/13125
